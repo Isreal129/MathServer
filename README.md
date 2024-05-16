@@ -74,10 +74,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![image](https://github.com/Isreal129/MathServer/assets/125784931/7c5a1823-e499-4d49-aa59-5270afd4c101)
-
 ![image](https://github.com/Isreal129/MathServer/assets/125784931/66a0b03c-5364-4680-bd8a-951cdf785ad7)
-
+![image](https://github.com/Isreal129/MathServer/assets/125784931/7c5a1823-e499-4d49-aa59-5270afd4c101)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
